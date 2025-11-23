@@ -29,13 +29,17 @@ News
 
 **Nov 19, 2024** - Awarded the Jimmie A. Schindewolf Academic Scholarship for academic and research excellence at the University of Houston!
 
+**Nov 14, 2024** - Our paper on [Automated design of nonreciprocal thermal emitters via Bayesian optimization](https://www-sciencedirect-com.ezproxy.lib.uh.edu/science/article/pii/S0022407324003674) was accepted to Elsevier Journal of Quantitative Spectroscopy and Radiative Transfer!
+
 **Nov 12, 2024** - Honored to receive travel funding from Google Research to present at the NeurIPS 2024 BDU Workshop in Vancouver!
 
-**Oct 09, 2024** - Our research on [Gaussian Process Thompson Sampling via Rootfinding](openreview.net/pdf?id=IpRLTVblaV) was accepted for oral presentation at NeurIPS 2024 BDU Workshop!
+**Oct 09, 2024** - Our research on [Gaussian Process Thompson Sampling via Rootfinding](https://openreview.net/forum?id=IpRLTVblaV)) was accepted for oral presentation at NeurIPS 2024 BDU Workshop!
 
 **Aug 1, 2024** - Our paper on [Digital Twins and Civil Engineering Phases: Reorienting Adoption Strategies](https://asmedigitalcollection.asme.org/computingengineering/article/24/10/100801/1202057/Digital-Twins-and-Civil-Engineering-Phases?searchresult=1) was accepted to ASME Journal of Computing and Information Science in Engineering!
 
 **May 22, 2024** - Selected and fully funded for the Summer 2024 NHERI Computational Academy at the Texas Advanced Computing Center (TACC), UT-Austin.
+
+**March 26, 2024** - Selected to receive the Cullen Fellowship Travel Grant for a presentation on Digital Twins at the 2024 ASCE Engineering Mechanics Institute, Chicago.
 
 Contact
 ---------
