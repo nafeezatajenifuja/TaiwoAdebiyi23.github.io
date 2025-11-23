@@ -23,13 +23,13 @@ News
 ======
 **October 20, 2025** - [Awarded the UH-Energy Chevron Graduate Energy Fellowship!](https://uq.uh.edu/blog/taiwo-wins-chevron-fellowship) 
 
-**Apr 25, 2025** - Landed in Singapore to present our paper on ["Optimizing Posterior Samples for Bayesian Optimization via Rootfinding"](https://iclr.cc/virtual/2025/poster/30191) at ICLR 2025!  
+**Apr 25, 2025** - Landed in Singapore to present our paper on [Optimizing Posterior Samples for Bayesian Optimization via Rootfinding](https://iclr.cc/virtual/2025/poster/30191) at ICLR 2025!  
 
 **Jan 22, 2025** - Our research on [Optimizing Posterior Samples for Bayesian Optimization via Rootfinding](https://openreview.net/pdf?id=IpRLTVblaV) was accepted to ICLR 2025!
 
 **Nov 19, 2024** - Awarded the Jimmie A. Schindewolf Academic Scholarship for academic and research excellence at the University of Houston!
 
-**Nov 14, 2024** - Our paper on [Automated design of nonreciprocal thermal emitters via Bayesian optimization](https://www-sciencedirect-com.ezproxy.lib.uh.edu/science/article/pii/S0022407324003674) was accepted to Elsevier Journal of Quantitative Spectroscopy and Radiative Transfer!
+**Nov 14, 2024** - Our paper on [Automated Design of Nonreciprocal Thermal Emitters via Bayesian Optimization](https://www-sciencedirect-com.ezproxy.lib.uh.edu/science/article/pii/S0022407324003674) was accepted to Elsevier Journal of Quantitative Spectroscopy and Radiative Transfer!
 
 **Nov 12, 2024** - Honored to receive travel funding from Google Research to present at the NeurIPS 2024 BDU Workshop in Vancouver!
 
