@@ -25,7 +25,7 @@ News
 
 **Nov 19, 2024** - Grateful to have received the Jimmie A. Schindewolf Academic Scholarship for academic and research excellence at the University of Houston!
 
-**Aug 1, 2024** - Our paper on Digital Twins and Civil Engineering Phases: Reorienting Adoption Strategies was accepted to ASME Journal of Computing and Information Science in Engineering![Check it out here](https://asmedigitalcollection.asme.org/computingengineering/article/24/10/100801/1202057/Digital-Twins-and-Civil-Engineering-Phases)
+**Aug 1, 2024** - Our paper on Digital Twins and Civil Engineering Phases: Reorienting Adoption Strategies was accepted to ASME Journal of Computing and Information Science in Engineering! [Check it out here](https://asmedigitalcollection.asme.org/computingengineering/article/24/10/100801/1202057/Digital-Twins-and-Civil-Engineering-Phases?searchresult=1).
 
 **May 22, 2024** - Excited to be selected and fully funded for the Summer 2024 NHERI Computational Academy at the Texas Advanced Computing Center(TACC), UT-Austin!
 
